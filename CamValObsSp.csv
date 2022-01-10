@@ -1,0 +1,303 @@
+Species,Amount,Location,Site,Habitat,Site_Trt,Protected_Area,Time,Type,Class
+Wrasse,1,halo,MPAa1,halo,MPAa1H,IN,on,cam,Small
+French Grunt,5,reef,MPAa1,halo,MPAa1H,IN,on,cam,Med
+Conch,1,halo,MPAa1,halo,MPAa1H,IN,on,cam,Other
+Sharpnose Puffer,1,grass,MPAa2,grass,MPAa2C,IN,on,cam,Small
+Jack,3,halo,MPAa2,halo,MPAa2H,IN,on,cam,Pred
+FLOODED,,grass,MPAa1,grass,MPAa1C,IN,on,cam,NA
+Damselfish,3,reef,MPAam,halo,MPAamH,IN,on,cam,Small
+Striped Parrotfish,1,halo,MPAam,halo,MPAamH,IN,on,cam,Herb
+French Grunt,1,reef,MPAam,halo,MPAamH,IN,on,cam,Med
+Damselfish,1,reef,MPAg1,halo,MPAg1H,IN,on,cam,Small
+Sergeant Major,1,reef,MPAg1,halo,MPAg1H,IN,on,cam,Small
+Squirrelfish,1,reef,MPAg1,halo,MPAg1H,IN,on,cam,Med
+Wrasse,3,reef,MPAg1,halo,MPAg1H,IN,on,cam,Small
+EMPTY,,grass,MPAg2,grass,MPAg2C,IN,on,cam,NA
+Jack,3,grass,MPAg3,grass,MPAg3C,IN,on,cam,Pred
+ALGAE,,halo,MPAg3,halo,MPAg3H,IN,on,cam,NA
+Blue Tang,3,reef,OUTa1,halo,OUTa1H,OUT,on,cam,Herb
+Jack,1,reef,OUTa1,halo,OUTa1H,OUT,on,cam,Pred
+EMPTY,,grass,OUTa3,grass,OUTa3C,OUT,on,cam,NA
+White Grunt,1,reef,OUTa3,halo,OUTa3H,OUT,on,cam,Med
+French Grunt,3,reef,OUTa3,halo,OUTa3H,OUT,on,cam,Med
+Blue Tang,3,reef,OUTa3,halo,OUTa3H,OUT,on,cam,Herb
+Yellowtail Snapper,1,reef,OUTa3,halo,OUTa3H,OUT,on,cam,Pred
+Porgy,1,reef,OUTa3,halo,OUTa3H,OUT,on,cam,Med
+EMPTY,,grass,OUTg1,grass,OUTg1C,OUT,on,cam,NA
+Yellowtail Snapper,1,halo,OUTg1,halo,OUTg1H,OUT,on,cam,Pred
+French Grunt,1,reef,OUTg1,halo,OUTg1H,OUT,on,cam,Med
+Spotted Goatfish,1,halo,OUTg1,halo,OUTg1H,OUT,on,cam,Med
+EMPTY,,grass,OUTg2,grass,OUTg2C,OUT,on,cam,NA
+ALGAE,,halo,OUTg2,halo,OUTg2H,OUT,on,cam,NA
+White Grunt,1,reef,OUTg2,halo,OUTg2H,OUT,on,cam,Med
+Unk small fish,3,grass,OUTg3,grass,OUTg3C,OUT,on,cam,Small
+Snapper,1,reef,OUTg3,halo,OUTg3H,OUT,on,cam,Pred
+Yellowtail Snapper,3,halo,OUTg3,halo,OUTg3H,OUT,on,cam,Pred
+White Grunt,1,reef,OUTg3,halo,OUTg3H,OUT,on,cam,Med
+EMPTY,,grass,MPAa1,grass,MPAa1C,IN,post,cam,NA
+Bluestriped Grunt,5,halo,MPAa1,halo,MPAa1H,IN,post,cam,Med
+EMPTY,,grass,MPAa2,grass,MPAa2C,IN,post,cam,NA
+EMPTY,,halo,MPAa2,halo,MPAa2H,IN,post,cam,NA
+Blue Tang,1,halo,MPAam,halo,MPAamH,IN,post,cam,Herb
+French Grunt,5,reef,MPAam,halo,MPAamH,IN,post,cam,Med
+Bluestriped Grunt,1,reef,MPAam,halo,MPAamH,IN,post,cam,Med
+Damselfish,3,halo,MPAg1,halo,MPAg1H,IN,post,cam,Small
+Wrasse,3,halo,MPAg1,halo,MPAg1H,IN,post,cam,Small
+Blue Tang,1,halo,MPAg1,halo,MPAg1H,IN,post,cam,Herb
+French Grunt,3,reef,MPAg1,halo,MPAg1H,IN,post,cam,Med
+EMPTY,,grass,MPAg2,grass,MPAg2C,IN,post,cam,NA
+DIVERS,,grass,MPAg3,grass,MPAg3C,IN,post,cam,NA
+French Grunt,3,reef,MPAg3,halo,MPAg3H,IN,post,cam,Med
+Yellow Goatfish,1,halo,MPAg3,halo,MPAg3H,IN,post,cam,Med
+Damselfish,3,reef,MPAg3,halo,MPAg3H,IN,post,cam,Small
+Blue Tang,1,halo,OUTa1,halo,OUTa1H,OUT,post,cam,Herb
+EMPTY,,grass,OUTa3,grass,OUTa3C,OUT,post,cam,NA
+White Grunt,1,reef,OUTa3,halo,OUTa3H,OUT,post,cam,Med
+EMPTY,,grass,OUTg1,grass,OUTg1C,OUT,post,cam,NA
+Surgeonfish,3,reef,OUTg1,halo,OUTg1H,OUT,post,cam,Herb
+Blue Tang,3,reef,OUTg1,halo,OUTg1H,OUT,post,cam,Herb
+French Grunt,1,reef,OUTg1,halo,OUTg1H,OUT,post,cam,Med
+SEDIMENT,,grass,OUTg2,grass,OUTg2C,OUT,post,cam,NA
+White Grunt,1,reef,OUTg2,halo,OUTg2H,OUT,post,cam,Med
+Bluestriped Grunt,3,reef,OUTg2,halo,OUTg2H,OUT,post,cam,Med
+Blue Tang,1,halo,OUTg2,halo,OUTg2H,OUT,post,cam,Herb
+Jack,1,grass,OUTg3,grass,OUTg3C,OUT,post,cam,Pred
+Yellowtail Snapper,5,reef,OUTg3,halo,OUTg3H,OUT,post,cam,Pred
+EMPTY,,grass,MPAa1,grass,MPAa1C,IN,pre,cam,NA
+Snapper,3,reef,MPAa1,halo,MPAa1H,IN,pre,cam,Pred
+EMPTY,,grass,MPAa2,grass,MPAa2C,IN,pre,cam,NA
+EMPTY,,halo,MPAa2,halo,MPAa2H,IN,pre,cam,NA
+Bluestriped Grunt,1,reef,MPAam,halo,MPAamH,IN,pre,cam,Med
+Snapper,3,reef,MPAam,halo,MPAamH,IN,pre,cam,Pred
+Damselfish,1,reef,MPAam,halo,MPAamH,IN,pre,cam,Small
+Blue Tang,3,reef,MPAg1,halo,MPAg1H,IN,pre,cam,Herb
+Sergeant Major,1,reef,MPAg1,halo,MPAg1H,IN,pre,cam,Small
+EMPTY,,grass,MPAg2,grass,MPAg2C,IN,pre,cam,NA
+EMPTY,,grass,MPAg3,grass,MPAg3C,IN,pre,cam,NA
+ALGAE,,halo,MPAg3,halo,MPAg3H,IN,pre,cam,NA
+Wrasse,1,halo,OUTa1,halo,OUTa1H,OUT,pre,cam,Small
+EMPTY,,grass,OUTa3,grass,OUTa3C,OUT,pre,cam,NA
+Porgy,1,reef,OUTa3,halo,OUTa3H,OUT,pre,cam,Med
+French Grunt,3,reef,OUTa3,halo,OUTa3H,OUT,pre,cam,Med
+EMPTY,,grass,OUTg1,grass,OUTg1C,OUT,pre,cam,NA
+Blue Tang,3,reef,OUTg1,halo,OUTg1H,OUT,pre,cam,Herb
+Slippery Dick,5,halo,OUTg1,halo,OUTg1H,OUT,pre,cam,Small
+Damselfish,3,reef,OUTg1,halo,OUTg1H,OUT,pre,cam,Small
+EMPTY,,grass,OUTg2,grass,OUTg2C,OUT,pre,cam,NA
+ALGAE,,halo,OUTg2,halo,OUTg2H,OUT,pre,cam,NA
+Unk small fish,3,grass,OUTg3,grass,OUTg3C,OUT,pre,cam,Small
+Yellowtail Snapper,3,reef,OUTg3,halo,OUTg3H,OUT,pre,cam,Pred
+Snapper,1,halo,OUTg3,halo,OUTg3H,OUT,pre,cam,Pred
+Jack,1,grass,MPAa1,grass,MPAa1C,IN,val,dive,Pred
+Puffer,3,grass,MPAa1,grass,MPAa1C,IN,val,dive,Med
+Stingray,1,grass,MPAa1,grass,MPAa1C,IN,val,dive,Med
+Jack,5,halo,MPAa1,halo,MPAa1H,IN,val,dive,Pred
+Barracuda,1,halo,MPAa1,halo,MPAa1H,IN,val,dive,Pred
+Blue Tang,3,reef,MPAa1,halo,MPAa1H,IN,val,dive,Herb
+Bluestriped Grunt,3,reef,MPAa1,halo,MPAa1H,IN,val,dive,Med
+Cottonwick,1,halo,MPAa1,halo,MPAa1H,IN,val,dive,Med
+French Grunt,5,halo,MPAa1,halo,MPAa1H,IN,val,dive,Med
+Graysby,1,reef,MPAa1,halo,MPAa1H,IN,val,dive,Pred
+Margate,5,reef,MPAa1,halo,MPAa1H,IN,val,dive,Med
+Mutton Snapper,3,reef,MPAa1,halo,MPAa1H,IN,val,dive,Pred
+Schoolmaster,1,reef,MPAa1,halo,MPAa1H,IN,val,dive,Pred
+Snapper,3,reef,MPAa1,halo,MPAa1H,IN,val,dive,Pred
+Southern Stingray,1,halo,MPAa1,halo,MPAa1H,IN,val,dive,Med
+Trunkfish,1,reef,MPAa1,halo,MPAa1H,IN,val,dive,Med
+Wrasse,1,reef,MPAa1,halo,MPAa1H,IN,val,dive,Small
+Yellow Goatfish,3,reef,MPAa1,halo,MPAa1H,IN,val,dive,Med
+Jack,1,grass,MPAa2,grass,MPAa2C,IN,val,dive,Pred
+Jelly,3,grass,MPAa2,grass,MPAa2C,IN,val,dive,Other
+Razorfish,3,grass,MPAa2,grass,MPAa2C,IN,val,dive,Small
+Sharpnose Puffer,3,grass,MPAa2,grass,MPAa2C,IN,val,dive,Small
+Silverside,5,grass,MPAa2,grass,MPAa2C,IN,val,dive,Small
+Barracuda,1,halo,MPAa2,halo,MPAa2H,IN,val,dive,Pred
+Blue Tang,5,reef,MPAa2,halo,MPAa2H,IN,val,dive,Herb
+Bluestriped Grunt,3,reef,MPAa2,halo,MPAa2H,IN,val,dive,Med
+Damselfish,1,halo,MPAa2,halo,MPAa2H,IN,val,dive,Small
+French Grunt,5,reef,MPAa2,halo,MPAa2H,IN,val,dive,Med
+Jack,5,halo,MPAa2,halo,MPAa2H,IN,val,dive,Pred
+Mutton Snapper,3,reef,MPAa2,halo,MPAa2H,IN,val,dive,Pred
+Puddingwife,1,halo,MPAa2,halo,MPAa2H,IN,val,dive,Med
+Schoolmaster,3,reef,MPAa2,halo,MPAa2H,IN,val,dive,Pred
+Sergeant Major,3,halo,MPAa2,halo,MPAa2H,IN,val,dive,Small
+Sharpnose Puffer,1,halo,MPAa2,halo,MPAa2H,IN,val,dive,Small
+Slippery Dick,3,halo,MPAa2,halo,MPAa2H,IN,val,dive,Small
+Snapper,5,reef,MPAa2,halo,MPAa2H,IN,val,dive,Pred
+Surgeonfish,1,halo,MPAa2,halo,MPAa2H,IN,val,dive,Herb
+Unk small fish,5,halo,MPAa2,halo,MPAa2H,IN,val,dive,Small
+Yellowtail Snapper,3,reef,MPAa2,halo,MPAa2H,IN,val,dive,Pred
+Bluestriped Grunt,5,reef,MPAam,halo,MPAamH,IN,val,dive,Med
+Damselfish,1,reef,MPAam,halo,MPAamH,IN,val,dive,Small
+French Grunt,5,reef,MPAam,halo,MPAamH,IN,val,dive,Med
+Jack,5,halo,MPAam,halo,MPAamH,IN,val,dive,Pred
+Mutton Snapper,1,halo,MPAam,halo,MPAamH,IN,val,dive,Pred
+Ocean Triggerfish,1,reef,MPAam,halo,MPAamH,IN,val,dive,Med
+Pearly Razorfish,1,halo,MPAam,halo,MPAamH,IN,val,dive,Small
+Queen Triggerfish,1,halo,MPAam,halo,MPAamH,IN,val,dive,Med
+Sailors Choice,1,reef,MPAam,halo,MPAamH,IN,val,dive,Med
+Schoolmaster,3,halo,MPAam,halo,MPAamH,IN,val,dive,Pred
+Porgy,1,halo,MPAam,halo,MPAamH,IN,val,dive,Med
+Snapper,5,reef,MPAam,halo,MPAamH,IN,val,dive,Pred
+Squirrelfish,1,reef,MPAam,halo,MPAamH,IN,val,dive,Med
+Stoplight Parrotfish,3,reef,MPAam,halo,MPAamH,IN,val,dive,Herb
+Surgeonfish,5,halo,MPAam,halo,MPAamH,IN,val,dive,Herb
+Yellow Goatfish,5,halo,MPAam,halo,MPAamH,IN,val,dive,Med
+Yellowtail Parrotfish,3,halo,MPAam,halo,MPAamH,IN,val,dive,Herb
+Yellowtail Snapper,1,reef,MPAam,halo,MPAamH,IN,val,dive,Pred
+Blue Chromis,3,reef,MPAg1,halo,MPAg1H,IN,val,dive,Small
+Bluestriped Grunt,5,halo,MPAg1,halo,MPAg1H,IN,val,dive,Med
+Damselfish,5,halo,MPAg1,halo,MPAg1H,IN,val,dive,Small
+Jack,1,reef,MPAg1,halo,MPAg1H,IN,val,dive,Pred
+Rainbow Parrotfish,1,reef,MPAg1,halo,MPAg1H,IN,val,dive,Herb
+Sergeant Major,5,halo,MPAg1,halo,MPAg1H,IN,val,dive,Small
+Sharpnose Puffer,1,reef,MPAg1,halo,MPAg1H,IN,val,dive,Small
+Slippery Dick,5,halo,MPAg1,halo,MPAg1H,IN,val,dive,Small
+Squirrelfish,1,reef,MPAg1,halo,MPAg1H,IN,val,dive,Med
+Striped Parrotfish,1,reef,MPAg1,halo,MPAg1H,IN,val,dive,Herb
+Stoplight Parrotfish,3,halo,MPAg1,halo,MPAg1H,IN,val,dive,Herb
+Surgeonfish,1,halo,MPAg1,halo,MPAg1H,IN,val,dive,Herb
+Blue Tang,3,halo,MPAg1,halo,MPAg1H,IN,val,dive,Herb
+White Grunt,3,halo,MPAg1,halo,MPAg1H,IN,val,dive,Med
+Wrasse,5,halo,MPAg1,halo,MPAg1H,IN,val,dive,Small
+Juvenile Wrasse,3,halo,MPAg1,halo,MPAg1H,IN,val,dive,Small
+Yellowfin Mojarra,3,halo,MPAg1,halo,MPAg1H,IN,val,dive,Med
+Jack,1,grass,MPAg1,grass,MPAg1C,IN,val,dive,Pred
+Juvenile Parrotfish,3,grass,MPAg1,grass,MPAg1C,IN,val,dive,Herb
+Sharpnose Puffer,1,grass,MPAg1,grass,MPAg1C,IN,val,dive,Small
+Trunkfish,1,grass,MPAg1,grass,MPAg1C,IN,val,dive,Med
+Bandtail puffer,1,grass,MPAg2,grass,MPAg2C,IN,val,dive,Small
+Jack,1,grass,MPAg2,grass,MPAg2C,IN,val,dive,Pred
+Ocean Triggerfish,3,grass,MPAg2,grass,MPAg2C,IN,val,dive,Med
+Sharpnose Puffer,1,grass,MPAg2,grass,MPAg2C,IN,val,dive,Small
+Barracuda,1,grass,MPAg3,grass,MPAg3C,IN,val,dive,Pred
+Jack,5,grass,MPAg3,grass,MPAg3C,IN,val,dive,Pred
+Juvenile Parrotfish,1,grass,MPAg3,grass,MPAg3C,IN,val,dive,Herb
+Juvenile Wrasse,3,grass,MPAg3,grass,MPAg3C,IN,val,dive,Small
+Razorfish,5,grass,MPAg3,grass,MPAg3C,IN,val,dive,Small
+Slippery Dick,5,grass,MPAg3,grass,MPAg3C,IN,val,dive,Small
+Blue Tang,3,halo,MPAg3,halo,MPAg3H,IN,val,dive,Herb
+Bluestriped Grunt,5,halo,MPAg3,halo,MPAg3H,IN,val,dive,Med
+French Grunt,3,reef,MPAg3,halo,MPAg3H,IN,val,dive,Med
+Hogfish,1,halo,MPAg3,halo,MPAg3H,IN,val,dive,Med
+Jack,3,halo,MPAg3,halo,MPAg3H,IN,val,dive,Pred
+Pluma,3,halo,MPAg3,halo,MPAg3H,IN,val,dive,Med
+Porgy,1,halo,MPAg3,halo,MPAg3H,IN,val,dive,Med
+Schoolmaster,3,reef,MPAg3,halo,MPAg3H,IN,val,dive,Pred
+Sergeant Major,5,halo,MPAg3,halo,MPAg3H,IN,val,dive,Small
+Spotted Goatfish,5,halo,MPAg3,halo,MPAg3H,IN,val,dive,Med
+Stoplight Parrotfish,3,halo,MPAg3,halo,MPAg3H,IN,val,dive,Herb
+Striped Parrotfish,3,reef,MPAg3,halo,MPAg3H,IN,val,dive,Herb
+Surgeonfish,1,halo,MPAg3,halo,MPAg3H,IN,val,dive,Herb
+Yellow Goatfish,5,halo,MPAg3,halo,MPAg3H,IN,val,dive,Med
+Yellowfin Mojarra,1,halo,MPAg3,halo,MPAg3H,IN,val,dive,Med
+Yellowtail Parrotfish,3,halo,MPAg3,halo,MPAg3H,IN,val,dive,Herb
+Yellowtail Snapper,5,halo,MPAg3,halo,MPAg3H,IN,val,dive,Pred
+Jack,3,grass,OUTa1,grass,OUTa1C,OUT,val,dive,Pred
+Juvenile Parrotfish,1,grass,OUTa1,grass,OUTa1C,OUT,val,dive,Herb
+Razorfish,5,grass,OUTa1,grass,OUTa1C,OUT,val,dive,Small
+Slippery Dick,1,grass,OUTa1,grass,OUTa1C,OUT,val,dive,Small
+Juvenile Wrasse,3,grass,OUTa1,grass,OUTa1C,OUT,val,dive,Small
+Bluestriped Grunt,5,halo,OUTa1,halo,OUTa1H,OUT,val,dive,Med
+Damselfish,3,reef,OUTa1,halo,OUTa1H,OUT,val,dive,Small
+French Grunt,1,reef,OUTa1,halo,OUTa1H,OUT,val,dive,Med
+Juvenile Grunt,1,reef,OUTa1,halo,OUTa1H,OUT,val,dive,Small
+Jack,3,halo,OUTa1,halo,OUTa1H,OUT,val,dive,Pred
+Slippery Dick,5,halo,OUTa1,halo,OUTa1H,OUT,val,dive,Small
+Striped Parrotfish,5,reef,OUTa1,halo,OUTa1H,OUT,val,dive,Herb
+Blue Tang,5,reef,OUTa1,halo,OUTa1H,OUT,val,dive,Herb
+Juvenile Wrasse,1,halo,OUTa1,halo,OUTa1H,OUT,val,dive,Small
+Yellowhead Wrasse,3,halo,OUTa1,halo,OUTa1H,OUT,val,dive,Small
+Bandtail puffer,3,grass,OUTa3,grass,OUTa3C,OUT,val,dive,Small
+Jack,5,grass,OUTa3,grass,OUTa3C,OUT,val,dive,Pred
+Crab,1,grass,OUTa3,grass,OUTa3C,OUT,val,dive,Other
+Flounder,1,grass,OUTa3,grass,OUTa3C,OUT,val,dive,Med
+Goby,1,grass,OUTa3,grass,OUTa3C,OUT,val,dive,Small
+Razorfish,1,grass,OUTa3,grass,OUTa3C,OUT,val,dive,Small
+Sharpnose Puffer,3,grass,OUTa3,grass,OUTa3C,OUT,val,dive,Small
+Slippery Dick,3,grass,OUTa3,grass,OUTa3C,OUT,val,dive,Small
+Stingray,1,grass,OUTa3,grass,OUTa3C,OUT,val,dive,Med
+Bicolor Damselfish,1,reef,OUTa3,halo,OUTa3H,OUT,val,dive,Small
+Black Grunt,1,reef,OUTa3,halo,OUTa3H,OUT,val,dive,Med
+Blue Tang,3,reef,OUTa3,halo,OUTa3H,OUT,val,dive,Herb
+Bluestriped Grunt,3,halo,OUTa3,halo,OUTa3H,OUT,val,dive,Med
+Cottonwick,3,halo,OUTa3,halo,OUTa3H,OUT,val,dive,Med
+French Grunt,5,reef,OUTa3,halo,OUTa3H,OUT,val,dive,Med
+Jack,5,halo,OUTa3,halo,OUTa3H,OUT,val,dive,Pred
+Juvenile Grunt,5,halo,OUTa3,halo,OUTa3H,OUT,val,dive,Small
+Juvenile Parrotfish,1,halo,OUTa3,halo,OUTa3H,OUT,val,dive,Herb
+Juvenile Wrasse,1,halo,OUTa3,halo,OUTa3H,OUT,val,dive,Small
+Parrotfish,1,halo,OUTa3,halo,OUTa3H,OUT,val,dive,Herb
+Slippery Dick,3,halo,OUTa3,halo,OUTa3H,OUT,val,dive,Small
+Smooth Trunkfish,1,halo,OUTa3,halo,OUTa3H,OUT,val,dive,Med
+Snapper,1,reef,OUTa3,halo,OUTa3H,OUT,val,dive,Pred
+Squirrelfish,1,reef,OUTa3,halo,OUTa3H,OUT,val,dive,Med
+Trunkfish,1,halo,OUTa3,halo,OUTa3H,OUT,val,dive,Med
+Unk small fish,1,halo,OUTa3,halo,OUTa3H,OUT,val,dive,Small
+Yellow Goatfish,5,halo,OUTa3,halo,OUTa3H,OUT,val,dive,Med
+Yellowtail Snapper,3,halo,OUTa3,halo,OUTa3H,OUT,val,dive,Pred
+Sharpnose Puffer,1,grass,OUTg1,grass,OUTg1C,OUT,val,dive,Small
+Blue Tang,5,halo,OUTg1,halo,OUTg1H,OUT,val,dive,Herb
+Bluehead wrasse,1,reef,OUTg1,halo,OUTg1H,OUT,val,dive,Small
+Bluestriped Grunt,3,reef,OUTg1,halo,OUTg1H,OUT,val,dive,Med
+Damselfish,1,reef,OUTg1,halo,OUTg1H,OUT,val,dive,Small
+French Grunt,5,reef,OUTg1,halo,OUTg1H,OUT,val,dive,Med
+Jack,1,halo,OUTg1,halo,OUTg1H,OUT,val,dive,Pred
+Lizardfish,1,halo,OUTg1,halo,OUTg1H,OUT,val,dive,Pred
+Mutton Snapper,1,reef,OUTg1,halo,OUTg1H,OUT,val,dive,Pred
+Porgy,1,halo,OUTg1,halo,OUTg1H,OUT,val,dive,Med
+Sharpnose Puffer,1,reef,OUTg1,halo,OUTg1H,OUT,val,dive,Small
+Slippery Dick,5,halo,OUTg1,halo,OUTg1H,OUT,val,dive,Small
+Spotted Goatfish,5,halo,OUTg1,halo,OUTg1H,OUT,val,dive,Med
+Squirrelfish,3,reef,OUTg1,halo,OUTg1H,OUT,val,dive,Med
+Stoplight Parrotfish,1,halo,OUTg1,halo,OUTg1H,OUT,val,dive,Herb
+Striped Parrotfish,3,reef,OUTg1,halo,OUTg1H,OUT,val,dive,Herb
+Surgeonfish,1,halo,OUTg1,halo,OUTg1H,OUT,val,dive,Herb
+Trunkfish,1,reef,OUTg1,halo,OUTg1H,OUT,val,dive,Med
+Yellowtail Parrotfish,3,halo,OUTg1,halo,OUTg1H,OUT,val,dive,Herb
+Flounder,1,grass,OUTg2,grass,OUTg2C,OUT,val,dive,Med
+Jack,3,grass,OUTg2,grass,OUTg2C,OUT,val,dive,Pred
+Sharpnose Puffer,3,grass,OUTg2,grass,OUTg2C,OUT,val,dive,Small
+Bluestriped Grunt,3,reef,OUTg2,halo,OUTg2H,OUT,val,dive,Med
+Damselfish,5,halo,OUTg2,halo,OUTg2H,OUT,val,dive,Small
+Foureye Butterflyfish,1,halo,OUTg2,halo,OUTg2H,OUT,val,dive,Small
+French Grunt,1,reef,OUTg2,halo,OUTg2H,OUT,val,dive,Med
+Goby,1,halo,OUTg2,halo,OUTg2H,OUT,val,dive,Small
+Graysby,1,halo,OUTg2,halo,OUTg2H,OUT,val,dive,Pred
+Jack,5,halo,OUTg2,halo,OUTg2H,OUT,val,dive,Pred
+Mutton Snapper,3,halo,OUTg2,halo,OUTg2H,OUT,val,dive,Pred
+Porgy,5,halo,OUTg2,halo,OUTg2H,OUT,val,dive,Med
+Queen Angelfish,1,halo,OUTg2,halo,OUTg2H,OUT,val,dive,Med
+Schoolmaster,3,halo,OUTg2,halo,OUTg2H,OUT,val,dive,Pred
+Stoplight Parrotfish,3,halo,OUTg2,halo,OUTg2H,OUT,val,dive,Herb
+Spotted Goatfish,5,halo,OUTg2,halo,OUTg2H,OUT,val,dive,Med
+Striped Parrotfish,3,reef,OUTg2,halo,OUTg2H,OUT,val,dive,Herb
+Blue Tang,5,halo,OUTg2,halo,OUTg2H,OUT,val,dive,Herb
+Trunkfish,1,halo,OUTg2,halo,OUTg2H,OUT,val,dive,Med
+White Grunt,1,reef,OUTg2,halo,OUTg2H,OUT,val,dive,Med
+Wrasse,5,halo,OUTg2,halo,OUTg2H,OUT,val,dive,Small
+Yellowfin Mojarra,3,halo,OUTg2,halo,OUTg2H,OUT,val,dive,Med
+Yellowtail Parrotfish,3,halo,OUTg2,halo,OUTg2H,OUT,val,dive,Herb
+Yellowtail Snapper,3,halo,OUTg2,halo,OUTg2H,OUT,val,dive,Pred
+Bucktooth Parrotfish,3,grass,OUTg3,grass,OUTg3C,OUT,val,dive,Herb
+Filefish,1,grass,OUTg3,grass,OUTg3C,OUT,val,dive,Herb
+Jack,3,grass,OUTg3,grass,OUTg3C,OUT,val,dive,Pred
+Juvenile Parrotfish,5,grass,OUTg3,grass,OUTg3C,OUT,val,dive,Herb
+Sharpnose Puffer,3,grass,OUTg3,grass,OUTg3C,OUT,val,dive,Small
+Spotted Goatfish,3,grass,OUTg3,grass,OUTg3C,OUT,val,dive,Med
+Juvenile Wrasse,5,grass,OUTg3,grass,OUTg3C,OUT,val,dive,Small
+Bluestriped Grunt,3,halo,OUTg3,halo,OUTg3H,OUT,val,dive,Med
+Damselfish,1,reef,OUTg3,halo,OUTg3H,OUT,val,dive,Small
+French Grunt,1,halo,OUTg3,halo,OUTg3H,OUT,val,dive,Med
+Jack,5,halo,OUTg3,halo,OUTg3H,OUT,val,dive,Pred
+Mutton Snapper,1,halo,OUTg3,halo,OUTg3H,OUT,val,dive,Pred
+Parrotfish,5,halo,OUTg3,halo,OUTg3H,OUT,val,dive,Herb
+Juvenile Parrotfish,3,halo,OUTg3,halo,OUTg3H,OUT,val,dive,Herb
+Schoolmaster,5,halo,OUTg3,halo,OUTg3H,OUT,val,dive,Pred
+Slippery Dick,3,halo,OUTg3,halo,OUTg3H,OUT,val,dive,Small
+Sharpnose Puffer,1,reef,OUTg3,halo,OUTg3H,OUT,val,dive,Small
+Spotted Goatfish,3,halo,OUTg3,halo,OUTg3H,OUT,val,dive,Med
+Blue Tang,3,halo,OUTg3,halo,OUTg3H,OUT,val,dive,Herb
+White Grunt,1,reef,OUTg3,halo,OUTg3H,OUT,val,dive,Med
+Yellow Goatfish,1,halo,OUTg3,halo,OUTg3H,OUT,val,dive,Med
+Yellowtail Snapper,5,halo,OUTg3,halo,OUTg3H,OUT,val,dive,Pred
